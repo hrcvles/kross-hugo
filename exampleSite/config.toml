@@ -2,7 +2,7 @@ baseURL = "https://chloewinkel.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "chloe winkel"
+title = "Chloe Winkel"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -20,24 +20,24 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = ""
+author = "Chloe Winkel"
 baidu_analytics_id = ""
 baidu_site_verification = ""
-copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+copyright = "Copyright &copy; 2022"
+description = "Welcome to my porfolio site!"
+email = "my.chloe.winkel@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = "+420773960604"
 theme_color = "#41228e"
 [params.contact]
 enable = true
 form_action = "#"
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = "14"
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
@@ -64,14 +64,5 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
+URL = "https://www.behance.net/winkelchloe"
+icon = "ti-behance"
